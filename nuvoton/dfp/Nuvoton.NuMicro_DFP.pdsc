@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package schemaVersion="1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
   <vendor>Nuvoton</vendor>
-  <url>https://gitee.com/jujiaqi/keil_pack/raw/master/nuvoton/dfp</url>
   <name>NuMicro_DFP</name>
   <description>Nuvoton ARM Cortex-M NuMicro Family Device Support</description>
 
