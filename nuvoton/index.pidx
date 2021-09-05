@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<index schemaVersion="1.1.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+<vendor>Nuvoton</vendor>
+<url>https://gitee.com/jujiaqi/keil_pack/raw/master/nuvoton</url>
+<timestamp>2021-09-02T14:50:41.6236245+00:00</timestamp>
+<pindex>
+  <pdsc url="https://gitee.com/jujiaqi/keil_pack/raw/master/nuvoton/dfp" vendor="Nuvoton" name="NuMicro_DFP" version="1.3.12" />
+</pindex>
+</index>
